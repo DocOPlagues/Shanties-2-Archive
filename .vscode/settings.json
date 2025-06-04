@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/*.crswap": false
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
+}
